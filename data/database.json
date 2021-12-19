@@ -11,7 +11,7 @@
       "phoneNumber": "625-316-9882",
       "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/t45AiwidW.svg",
       "defaultPrivacyLevel": "public",
-      "balance": 9950000,
+      "balance": 9949500,
       "createdAt": "2019-08-27T23:47:05.637Z",
       "modifiedAt": "2020-05-21T11:02:22.857Z"
     },
@@ -71,7 +71,7 @@
       "phoneNumber": "277-189-3402",
       "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/tsHF6_D5oQ.svg",
       "defaultPrivacyLevel": "contacts",
-      "balance": 75369,
+      "balance": 75869,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
     }
@@ -9855,6 +9855,18 @@
       "requestResolvedAt": "",
       "createdAt": "2019-06-27T22:24:04.794Z",
       "modifiedAt": "2020-05-21T04:58:44.494Z"
+    },
+    {
+      "id": "EPpfWi4Mu",
+      "uuid": "6ba06396-0a1e-4c9e-a490-2634c3c217ee",
+      "amount": 500,
+      "description": "08a94e5b-fdc1-472e-92b1-8f78c3bdb9c7",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-12-19T18:04:33.654Z",
+      "modifiedAt": "2021-12-19T18:04:33.654Z"
     }
   ],
   "likes": [
@@ -10431,6 +10443,16 @@
       "isRead": false,
       "createdAt": "2019-10-19T20:50:49.292Z",
       "modifiedAt": "2020-05-21T21:00:50.192Z"
+    },
+    {
+      "id": "PpXbBTE9Wo",
+      "uuid": "b44ed3ec-4d88-41d0-a5eb-6df3ad8fff6a",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "EPpfWi4Mu",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-12-19T18:04:33.680Z",
+      "modifiedAt": "2021-12-19T18:04:33.680Z"
     }
   ],
   "banktransfers": [
